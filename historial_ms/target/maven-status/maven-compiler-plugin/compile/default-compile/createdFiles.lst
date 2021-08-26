@@ -1,0 +1,11 @@
+com\proyecto\historial_ms\models\Historial.class
+com\proyecto\historial_ms\models\Registro.class
+com\proyecto\historial_ms\controllers\RegistroController.class
+com\proyecto\historial_ms\controllers\HistorialController.class
+com\proyecto\historial_ms\exceptions\HistorialNotFoundAdvice.class
+com\proyecto\historial_ms\exceptions\HistorialNotFoundException.class
+com\proyecto\historial_ms\repositories\HistorialRepository.class
+com\proyecto\historial_ms\exceptions\RegistroNotFoundAdvice.class
+com\proyecto\historial_ms\exceptions\RegistroNotFoundException.class
+com\proyecto\historial_ms\repositories\RegistroRepository.class
+com\proyecto\historial_ms\HistorialMsApplication.class
